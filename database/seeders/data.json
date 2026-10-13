@@ -1,0 +1,944 @@
+{
+ "regions": [
+  {
+   "name": "Uttarakhand",
+   "image": "images/dayara-bugyal-1.jpg",
+   "sort_order": 0,
+   "country": "India"
+  },
+  {
+   "name": "Himachal Pradesh",
+   "image": "images/chandratal-lake-1.jpg",
+   "sort_order": 1,
+   "country": "India"
+  },
+  {
+   "name": "Kashmir",
+   "image": "images/kashmir-great-lakes-1.jpg",
+   "sort_order": 2,
+   "country": "India"
+  },
+  {
+   "name": "Ladakh",
+   "image": "images/markha-valley-1.jpg",
+   "sort_order": 3,
+   "country": "India"
+  },
+  {
+   "name": "West Bengal",
+   "image": "images/sandakphu-1.jpg",
+   "sort_order": 4,
+   "country": "India"
+  },
+  {
+   "name": "Sikkim",
+   "image": "images/goechala-1.jpg",
+   "sort_order": 5,
+   "country": "India"
+  },
+  {
+   "name": "Nepal",
+   "image": "images/everest-base-camp-1.jpg",
+   "sort_order": 6,
+   "country": "Nepal"
+  }
+ ],
+ "treks": [
+  {
+   "title": "Kedarkantha",
+   "slug": "kedarkantha",
+   "region": "Uttarakhand",
+   "days": 6,
+   "grade": "Easy to Moderate",
+   "season": "Winter",
+   "short_text": "Snow summit and pine forests",
+   "overview": "A classic first winter trek. The trail climbs through pine and oak forest, passes a frozen lake and ends on a snow-covered summit above Sankri with wide views of Swargarohini and Bandarpoonch.",
+   "highlights": [
+    "Snow summit with 360 degree views",
+    "Juda ka Talab lake camp",
+    "Easy pace, good for first-timers"
+   ],
+   "base_camp": "Sankri",
+   "max_altitude": 3800,
+   "distance_km": 20,
+   "best_months": "Dec to Apr",
+   "itinerary": [
+    "Drive from Dehradun to Sankri",
+    "Sankri to Juda ka Talab",
+    "Juda ka Talab to Kedarkantha Base",
+    "Summit Kedarkantha, descend to Hargaon",
+    "Hargaon to Sankri",
+    "Drive from Sankri to Dehradun"
+   ],
+   "images": [],
+   "sort_order": 0,
+   "themes": "Snow, Beginner, Summit a Peak",
+   "experiences": "Family Treks",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Dayara Bugyal",
+   "slug": "dayara-bugyal",
+   "region": "Uttarakhand",
+   "days": 5,
+   "grade": "Easy",
+   "season": "Spring",
+   "short_text": "Open meadows and snow views",
+   "overview": "A gentle climb from Barsu to one of Uttarakhand's largest high-altitude meadows. Green in summer and under deep snow in winter, with Bandarpoonch and Srikanth in the distance.",
+   "highlights": [
+    "Wide open Himalayan meadows",
+    "Short and easy route",
+    "Good for families and beginners"
+   ],
+   "base_camp": "Barsu",
+   "max_altitude": 3400,
+   "distance_km": 22,
+   "best_months": "Mar to May, Oct to Nov",
+   "itinerary": [
+    "Drive from Dehradun to Barsu",
+    "Barsu to Dayara Bugyal",
+    "Explore Bakaria Top and return to camp",
+    "Dayara Bugyal to Raithal",
+    "Drive from Raithal to Dehradun"
+   ],
+   "images": [
+    "images/dayara-bugyal-1.jpg"
+   ],
+   "sort_order": 1,
+   "themes": "Meadow, Family with kids, Beginner, Snow",
+   "experiences": "Family Treks, Senior Treks",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Brahmatal",
+   "slug": "brahmatal",
+   "region": "Uttarakhand",
+   "days": 6,
+   "grade": "Easy to Moderate",
+   "season": "Winter",
+   "short_text": "Frozen lakes and ridge walks",
+   "overview": "A winter trek through oak and rhododendron forest to frozen lakes and a ridge that looks across to Trishul and Nanda Ghunti.",
+   "highlights": [
+    "Frozen Bekaltal and Brahmatal lakes",
+    "Ridge views of Trishul",
+    "Quiet winter forest trails"
+   ],
+   "base_camp": "Lohajung",
+   "max_altitude": 3700,
+   "distance_km": 24,
+   "best_months": "Dec to Mar",
+   "itinerary": [
+    "Drive from Kathgodam to Lohajung",
+    "Lohajung to Bekaltal",
+    "Bekaltal to Brahmatal",
+    "Explore Brahmatal and Jhandi Top",
+    "Descend to Lohajung",
+    "Drive from Lohajung to Kathgodam"
+   ],
+   "images": [
+    "images/brahmatal-1.jpg"
+   ],
+   "sort_order": 2,
+   "themes": "Snow, Lakes, Frozen River and Waterfall",
+   "experiences": "Stargazing Treks",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Valley of Flowers",
+   "slug": "valley-of-flowers",
+   "region": "Uttarakhand",
+   "days": 6,
+   "grade": "Easy to Moderate",
+   "season": "Monsoon",
+   "short_text": "Alpine flowers and Hemkund Sahib",
+   "overview": "A protected alpine valley covered in wildflowers in the monsoon, combined with the high-altitude shrine of Hemkund Sahib.",
+   "highlights": [
+    "Wildflowers across the valley floor",
+    "Visit to Hemkund Sahib",
+    "Walk beside the Pushpawati river"
+   ],
+   "base_camp": "Govindghat",
+   "max_altitude": 4330,
+   "distance_km": 38,
+   "best_months": "Jul to Sep",
+   "itinerary": [
+    "Drive from Rishikesh to Joshimath",
+    "Govindghat to Ghangaria",
+    "Ghangaria to Valley of Flowers and back",
+    "Ghangaria to Hemkund Sahib and back",
+    "Ghangaria to Govindghat, drive to Joshimath",
+    "Drive from Joshimath to Rishikesh"
+   ],
+   "images": [
+    "images/valley-of-flowers-1.jpg"
+   ],
+   "sort_order": 3,
+   "themes": "Walk in the Valley, Meadow, River",
+   "experiences": "Adventure Therapy",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Roopkund",
+   "slug": "roopkund",
+   "region": "Uttarakhand",
+   "days": 8,
+   "grade": "Difficult",
+   "season": "Summer",
+   "short_text": "Glacial lake and high ridges",
+   "overview": "A high trek through Ali and Bedni Bugyal meadows to a glacial lake in a stark bowl of rock, with Trishul and Nanda Ghunti in view.",
+   "highlights": [
+    "Ali and Bedni Bugyal meadows",
+    "High glacial lake at 4,800 m",
+    "Big mountain views all along"
+   ],
+   "base_camp": "Lohajung",
+   "max_altitude": 4800,
+   "distance_km": 53,
+   "best_months": "May to Jun, Sep to Oct",
+   "itinerary": [
+    "Drive from Kathgodam to Lohajung",
+    "Lohajung to Didna village",
+    "Didna to Ali Bugyal",
+    "Ali Bugyal to Pathar Nachauni",
+    "Pathar Nachauni to Bhagwabasa",
+    "Roopkund and back to Bhagwabasa",
+    "Descend to Lohajung",
+    "Drive from Lohajung to Kathgodam"
+   ],
+   "images": [
+    "images/roopkund-1.jpg"
+   ],
+   "sort_order": 4,
+   "themes": "Lakes, Glacier, Peaks View",
+   "experiences": "",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Hampta Pass",
+   "slug": "hampta-pass",
+   "region": "Himachal Pradesh",
+   "days": 5,
+   "grade": "Moderate",
+   "season": "Summer",
+   "short_text": "Green valley to cold desert",
+   "overview": "A crossover trek that climbs from the green Kullu valley over Hampta Pass into the dry, rugged landscape of Lahaul, ending at Chandratal lake.",
+   "highlights": [
+    "Green valley to cold desert crossover",
+    "Hampta Pass at 4,270 m",
+    "Camp near Chandratal lake"
+   ],
+   "base_camp": "Manali",
+   "max_altitude": 4270,
+   "distance_km": 26,
+   "best_months": "Jun to Sep",
+   "itinerary": [
+    "Manali to Jobra, trek to Chika",
+    "Chika to Balu ka Ghera",
+    "Balu ka Ghera to Shea Goru over Hampta Pass",
+    "Drive from Shea Goru to Chandratal",
+    "Drive from Chandratal to Manali"
+   ],
+   "images": [],
+   "sort_order": 5,
+   "themes": "Crossover Through, River",
+   "experiences": "Summer Camps",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Kashmir Great Lakes",
+   "slug": "kashmir-great-lakes",
+   "region": "Kashmir",
+   "days": 8,
+   "grade": "Moderate",
+   "season": "Summer",
+   "short_text": "Seven alpine lakes",
+   "overview": "A high-altitude route linking Vishansar, Krishansar, Gadsar, Satsar and Gangabal lakes between Sonamarg and Naranag, over open meadows and passes.",
+   "highlights": [
+    "Seven alpine lakes",
+    "Gadsar Pass crossing",
+    "Meadows full of wildflowers in season"
+   ],
+   "base_camp": "Sonamarg",
+   "max_altitude": 4100,
+   "distance_km": 70,
+   "best_months": "Jul to Sep",
+   "itinerary": [
+    "Drive from Srinagar to Sonamarg",
+    "Sonamarg to Nichnai",
+    "Nichnai to Vishansar Lake via Krishansar",
+    "Vishansar to Gadsar over Gadsar Pass",
+    "Gadsar to Satsar",
+    "Satsar to Gangabal",
+    "Gangabal to Naranag",
+    "Drive from Naranag to Srinagar"
+   ],
+   "images": [
+    "images/kashmir-great-lakes-1.jpg"
+   ],
+   "sort_order": 6,
+   "themes": "Lakes, Meadow, Peaks View",
+   "experiences": "",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Markha Valley",
+   "slug": "markha-valley",
+   "region": "Ladakh",
+   "days": 8,
+   "grade": "Moderate",
+   "season": "Summer",
+   "short_text": "Villages, gompas and high passes",
+   "overview": "A river-valley trek through Ladakhi villages, monasteries and apricot fields, with the Kongmaru La crossing as the high point.",
+   "highlights": [
+    "Ladakhi villages and homestays",
+    "Kongmaru La crossing",
+    "Mountain desert scenery"
+   ],
+   "base_camp": "Leh",
+   "max_altitude": 5200,
+   "distance_km": 75,
+   "best_months": "Jun to Sep",
+   "itinerary": [
+    "Arrive in Leh",
+    "Rest and acclimatise in Leh",
+    "Chilling to Skiu",
+    "Skiu to Markha",
+    "Markha to Hankar",
+    "Hankar to Nimaling",
+    "Nimaling to Kongmaru La to Chokdo",
+    "Chokdo to Hemis, drive to Leh"
+   ],
+   "images": [
+    "images/markha-valley-1.jpg"
+   ],
+   "sort_order": 7,
+   "themes": "Walk in the Valley, River, Off Beat Trek",
+   "experiences": "Stargazing Treks",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Sandakphu",
+   "slug": "sandakphu",
+   "region": "West Bengal",
+   "days": 7,
+   "grade": "Moderate",
+   "season": "Spring",
+   "short_text": "Sunrise over Kanchenjunga and Everest",
+   "overview": "A walk along the Singalila ridge to the highest point in West Bengal, with a view of Everest, Kanchenjunga, Lhotse and Makalu on clear days.",
+   "highlights": [
+    "Four of the five highest peaks in view",
+    "Rhododendron forests in spring",
+    "Sunrise on the Sleeping Buddha range"
+   ],
+   "base_camp": "Manebhanjan",
+   "max_altitude": 3640,
+   "distance_km": 52,
+   "best_months": "Mar to May, Oct to Nov",
+   "itinerary": [
+    "NJP to Manebhanjan, trek to Chitrey",
+    "Chitrey to Tumling",
+    "Tumling to Kalipokhri",
+    "Kalipokhri to Sandakphu",
+    "Sandakphu to Gurdum",
+    "Gurdum to Rimbick",
+    "Drive from Rimbick to NJP"
+   ],
+   "images": [
+    "images/sandakphu-1.jpg"
+   ],
+   "sort_order": 8,
+   "themes": "Peaks View, Rhododendron",
+   "experiences": "",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Goechala",
+   "slug": "goechala",
+   "region": "Sikkim",
+   "days": 11,
+   "grade": "Difficult",
+   "season": "Spring",
+   "short_text": "Close views of Kanchenjunga",
+   "overview": "A long trek in Kanchenjunga National Park from Yuksom through rhododendron forest and high meadows to Goechala viewpoint, passing Samiti Lake.",
+   "highlights": [
+    "Close views of Kanchenjunga",
+    "Samiti Lake",
+    "Rhododendron forests and high camps"
+   ],
+   "base_camp": "Yuksom",
+   "max_altitude": 4940,
+   "distance_km": 90,
+   "best_months": "Apr to May, Oct to Nov",
+   "itinerary": [
+    "NJP to Yuksom",
+    "Yuksom to Sachen",
+    "Sachen to Tshoka",
+    "Tshoka to Dzongri",
+    "Acclimatisation day at Dzongri",
+    "Dzongri to Thansing",
+    "Thansing to Lamuney via Samiti Lake",
+    "Goechala viewpoint, descend to Kokchurang",
+    "Kokchurang to Tshoka",
+    "Tshoka to Yuksom",
+    "Drive from Yuksom to NJP"
+   ],
+   "images": [
+    "images/goechala-1.jpg"
+   ],
+   "sort_order": 9,
+   "themes": "Peaks View, Lakes, Rhododendron",
+   "experiences": "",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Annapurna Base Camp",
+   "slug": "annapurna-base-camp",
+   "region": "Nepal",
+   "days": 9,
+   "grade": "Moderate",
+   "season": "Autumn",
+   "short_text": "Teahouse trek to the sanctuary",
+   "overview": "A teahouse trek into the Annapurna Sanctuary, a high basin ringed by Annapurna I, Machapuchare and Hiunchuli.",
+   "highlights": [
+    "Annapurna Sanctuary amphitheatre",
+    "Gurung villages and rhododendron forest",
+    "Comfortable teahouse stays"
+   ],
+   "base_camp": "Pokhara",
+   "max_altitude": 4130,
+   "distance_km": 110,
+   "best_months": "Mar to May, Oct to Nov",
+   "itinerary": [
+    "Arrive in Pokhara",
+    "Drive to Nayapul, trek to Ghandruk",
+    "Ghandruk to Chhomrong",
+    "Chhomrong to Dovan",
+    "Dovan to Deurali",
+    "Deurali to Annapurna Base Camp",
+    "Base Camp to Bamboo",
+    "Bamboo to Jhinu, drive to Pokhara",
+    "Pokhara to Kathmandu"
+   ],
+   "images": [
+    "images/annapurna-base-camp-1.jpg"
+   ],
+   "sort_order": 10,
+   "themes": "Peaks View, Hot Springs, Rhododendron",
+   "experiences": "",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Everest Base Camp",
+   "slug": "everest-base-camp",
+   "region": "Nepal",
+   "days": 13,
+   "grade": "Difficult",
+   "season": "Autumn",
+   "short_text": "Classic route to Everest base camp",
+   "overview": "The classic Khumbu trek through Sherpa villages and Sagarmatha National Park to Everest Base Camp and the Kala Patthar viewpoint.",
+   "highlights": [
+    "Everest Base Camp and Kala Patthar",
+    "Namche Bazaar and Sherpa culture",
+    "Views of Ama Dablam, Lhotse and Nuptse"
+   ],
+   "base_camp": "Kathmandu",
+   "max_altitude": 5545,
+   "distance_km": 112,
+   "best_months": "Mar to May, Oct to Nov",
+   "itinerary": [
+    "Arrive in Kathmandu",
+    "Fly to Lukla, trek to Phakding",
+    "Phakding to Namche Bazaar",
+    "Acclimatisation day in Namche",
+    "Namche to Tengboche",
+    "Tengboche to Dingboche",
+    "Rest day at Dingboche",
+    "Dingboche to Lobuche",
+    "Lobuche to Gorakshep and Everest Base Camp",
+    "Kala Patthar, descend to Pangboche",
+    "Pangboche to Namche",
+    "Namche to Lukla",
+    "Fly to Kathmandu"
+   ],
+   "images": [
+    "images/everest-base-camp-1.jpg"
+   ],
+   "sort_order": 11,
+   "themes": "Peaks View, Glacier",
+   "experiences": "",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Chandratal Lake",
+   "slug": "chandratal-lake",
+   "region": "Himachal Pradesh",
+   "days": 4,
+   "grade": "Easy to Moderate",
+   "season": "Summer",
+   "short_text": "Clear mountain lake in Spiti",
+   "overview": "A short, scenic trek to the crescent-shaped Chandratal lake in the Spiti region, set in a wide valley of bare mountains.",
+   "highlights": [
+    "Clear blue lake at 4,300 m",
+    "Short route with big scenery",
+    "Camping by the lake"
+   ],
+   "base_camp": "Batal",
+   "max_altitude": 4300,
+   "distance_km": 14,
+   "best_months": "Jun to Sep",
+   "itinerary": [
+    "Drive from Manali to Batal",
+    "Batal to Chandratal",
+    "Rest and explore around the lake",
+    "Drive from Chandratal to Manali"
+   ],
+   "images": [
+    "images/chandratal-lake-1.jpg",
+    "images/chandratal-lake-2.jpg"
+   ],
+   "sort_order": 12,
+   "themes": "Lakes, Beginner, Couples, Family with kids",
+   "experiences": "Family Treks, Stargazing Treks, Summer Camps",
+   "interest": "Trekking"
+  },
+  {
+   "title": "Kedarnath Trek",
+   "slug": "kedarnath-trek",
+   "region": "Uttarakhand",
+   "days": 5,
+   "grade": "Moderate",
+   "season": "Summer",
+   "short_text": "Temple trek below snow peaks",
+   "overview": "A pilgrim trail from Gaurikund to the Kedarnath temple, set at the foot of snow-capped peaks. The route is about 16 km each way.",
+   "highlights": [
+    "Kedarnath temple below snow peaks",
+    "Walk beside the Mandakini river",
+    "Bhairavnath temple viewpoint"
+   ],
+   "base_camp": "Gaurikund",
+   "max_altitude": 3580,
+   "distance_km": 32,
+   "best_months": "May to Jun, Sep to Oct",
+   "itinerary": [
+    "Drive from Rishikesh to Guptkashi",
+    "Drive to Gaurikund, trek to Kedarnath",
+    "Temple visit and Bhairavnath walk",
+    "Kedarnath to Gaurikund",
+    "Drive from Gaurikund to Rishikesh"
+   ],
+   "images": [
+    "images/kedarnath-trek-1.jpg",
+    "images/kedarnath-trek-2.jpg"
+   ],
+   "sort_order": 13,
+   "themes": "Peaks View, River",
+   "experiences": "Senior Treks",
+   "interest": "Pilgrimage Tours"
+  }
+ ],
+ "inclusions": [
+  "Stay at camps, guesthouses or teahouses as per the route",
+  "Meals during the trek (vegetarian)",
+  "Trek leader, guides and support staff",
+  "Permits, forest and camping fees",
+  "First-aid kit and oxygen cylinder"
+ ],
+ "exclusions": [
+  "Travel to and from the base point",
+  "Personal expenses and tips",
+  "Travel and medical insurance",
+  "Porter or mule charges for personal bags",
+  "Anything not listed under inclusions"
+ ],
+ "essentials": [
+  "Backpack, 40 to 50 L, with rain cover",
+  "Trekking shoes with good grip",
+  "Warm layers: fleece, down jacket, thermals",
+  "Waterproof jacket and trousers",
+  "Cap or sun hat, gloves, sunglasses",
+  "Two 1-litre water bottles",
+  "Trekking pole (recommended)",
+  "Personal medicines and sunscreen"
+ ],
+ "slides": [
+  {
+   "title": "Winter Snow Treks",
+   "subtitle": "Kedarkantha, Brahmatal and Dayara Bugyal",
+   "image": "images/hero-1.jpg",
+   "button_url": "/category/season/winter",
+   "note": "Limited seats. Book early.",
+   "promo_top": "Winter Treks",
+   "promo_main": "Sale",
+   "promo_year": "2026",
+   "button_text": "Know more",
+   "price_label": null,
+   "price_text": null
+  },
+  {
+   "title": "Brahmatal Trek",
+   "subtitle": "Frozen lakes and ridge walks",
+   "image": "images/brahmatal-1.jpg",
+   "button_url": "/treks/brahmatal",
+   "note": "Travel charges extra",
+   "promo_top": "Winter Treks",
+   "promo_main": "Sale",
+   "promo_year": "2026",
+   "button_text": "Know more",
+   "price_label": null,
+   "price_text": null
+  },
+  {
+   "title": "Dayara Bugyal Trek",
+   "subtitle": "Open meadows and snow views",
+   "image": "images/dayara-bugyal-1.jpg",
+   "button_url": "/treks/dayara-bugyal",
+   "note": "Travel charges extra",
+   "promo_top": "Winter Treks",
+   "promo_main": "Sale",
+   "promo_year": "2026",
+   "button_text": "Know more",
+   "price_label": null,
+   "price_text": null
+  },
+  {
+   "title": "Sandakphu Trek",
+   "subtitle": "Sunrise over Kanchenjunga and Everest",
+   "image": "images/sandakphu-1.jpg",
+   "button_url": "/treks/sandakphu",
+   "note": "Travel charges extra",
+   "promo_top": "Winter Treks",
+   "promo_main": "Sale",
+   "promo_year": "2026",
+   "button_text": "Know more",
+   "price_label": null,
+   "price_text": null
+  },
+  {
+   "title": "Himalayan Winter Views",
+   "subtitle": "Cedar forests and snow peaks on the horizon",
+   "image": "images/hero-3.jpg",
+   "button_url": "/category/season/winter",
+   "note": "Limited seats. Book early.",
+   "promo_top": "Winter Treks",
+   "promo_main": "Sale",
+   "promo_year": "2026",
+   "button_text": "Know more",
+   "price_label": null,
+   "price_text": null
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Aarav Mehta",
+   "trek": "Kedarnath Trek",
+   "body": "Well planned from start to finish. The guide kept a steady pace and checked on everyone along the way."
+  },
+  {
+   "name": "Neha Sharma",
+   "trek": "Valley of Flowers",
+   "body": "The trail was green and quiet, and the team handled the rain without any fuss. Great first Himalayan trek."
+  },
+  {
+   "name": "Rohan Verma",
+   "trek": "Roopkund",
+   "body": "Tough climb, but the leaders explained each day clearly and the camps were warm and comfortable."
+  },
+  {
+   "name": "Priya Nair",
+   "trek": "Annapurna Base Camp",
+   "body": "Lovely group, great food at every stop, and a guide who knew every turn. Would trek with them again."
+  },
+  {
+   "name": "Karan Singh",
+   "trek": "Chandratal Lake",
+   "body": "Easy to book, easy to follow. The lake at sunrise made the whole trip worth it."
+  },
+  {
+   "name": "Ishita Roy",
+   "trek": "Goechala",
+   "body": "Eleven days felt short. Clear weather updates and kind, patient support from the whole team."
+  },
+  {
+   "name": "Vikram Rao",
+   "trek": "Kashmir Great Lakes",
+   "body": "Every lake looked better than the last. The local crew looked after us very well."
+  },
+  {
+   "name": "Ananya Das",
+   "trek": "Dayara Bugyal",
+   "body": "We took the kids on this one. The pace was gentle and the guides made it fun for them."
+  }
+ ],
+ "posts": [
+  {
+   "type": "update",
+   "title": "Kedarnath Trek",
+   "excerpt": "Weather and trail notes for the coming batches",
+   "image": "images/kedarnath-trek-1.jpg",
+   "body": "Weather and trail notes for the coming batches. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "update",
+   "title": "Chandratal Lake",
+   "excerpt": "Clear skies and open camps this week",
+   "image": "images/chandratal-lake-1.jpg",
+   "body": "Clear skies and open camps this week. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "update",
+   "title": "Roopkund",
+   "excerpt": "Snow patches on the upper trail, carry gaiters",
+   "image": "images/roopkund-1.jpg",
+   "body": "Snow patches on the upper trail, carry gaiters. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "update",
+   "title": "Everest Base Camp",
+   "excerpt": "Acclimatisation days added to every batch",
+   "image": "images/everest-base-camp-1.jpg",
+   "body": "Acclimatisation days added to every batch. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "update",
+   "title": "Goechala",
+   "excerpt": "Clear mornings expected for peak views",
+   "image": "images/goechala-1.jpg",
+   "body": "Clear mornings expected for peak views. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "article",
+   "title": "How to choose your first trek",
+   "excerpt": "Easy routes, ideal months and what to expect",
+   "image": "images/dayara-bugyal-1.jpg",
+   "body": "Easy routes, ideal months and what to expect. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "article",
+   "title": "Packing list for a 5-day trek",
+   "excerpt": "Layers, shoes and the small things people forget",
+   "image": "images/brahmatal-1.jpg",
+   "body": "Layers, shoes and the small things people forget. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "article",
+   "title": "Altitude sickness: what to know",
+   "excerpt": "Signs to watch for and how to acclimatise",
+   "image": "images/annapurna-base-camp-1.jpg",
+   "body": "Signs to watch for and how to acclimatise. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "article",
+   "title": "Best time for flowers and lakes",
+   "excerpt": "Monsoon blooms and summer lakes in the Himalayas",
+   "image": "images/valley-of-flowers-1.jpg",
+   "body": "Monsoon blooms and summer lakes in the Himalayas. This is sample text. Replace it from the admin panel."
+  },
+  {
+   "type": "article",
+   "title": "Ladakh treks for beginners",
+   "excerpt": "Valleys, villages and passes to start with",
+   "image": "images/markha-valley-1.jpg",
+   "body": "Valleys, villages and passes to start with. This is sample text. Replace it from the admin panel."
+  }
+ ],
+ "faq": [
+  {
+   "name": "Beginners Guide",
+   "icon": "book",
+   "items": [
+    {
+     "q": "How do I choose the right trek?",
+     "a": "Start with your fitness level and the number of days you have. For a first trek, pick an easy or easy-to-moderate route of 4 to 6 days with a gradual climb, and check the best season. If you are unsure, send us an enquiry and we will suggest options."
+    },
+    {
+     "q": "Can a beginner choose a tough trek?",
+     "a": "We do not recommend it. High altitude, steep slopes and rough ground need experience and fitness. Begin with an easier trek and build up from there."
+    },
+    {
+     "q": "Is there an age limit?",
+     "a": "There is no fixed age limit. Fitness and health matter more. If you have a medical condition, please check with your doctor before booking."
+    },
+    {
+     "q": "Can I join the trek solo?",
+     "a": "Yes. Book a fixed-date batch and we will place you in a group with other trekkers."
+    },
+    {
+     "q": "What food will I get?",
+     "a": "Simple, filling vegetarian meals and snacks on the trail. Tell us about allergies or special diets when you book so we can plan ahead."
+    },
+    {
+     "q": "How much water should I carry?",
+     "a": "Carry two one-litre bottles. You can refill them at every camp."
+    }
+   ]
+  },
+  {
+   "name": "Booking Guide",
+   "icon": "calendar",
+   "items": [
+    {
+     "q": "How do I book a trek?",
+     "a": "Pick a trek and a batch date, then send us an enquiry using the form below. We will confirm availability and share the payment steps."
+    },
+    {
+     "q": "What is included in the price?",
+     "a": "Add your own inclusions here, for example camps or stays, meals on the trek, trek leader and guides, permits and a safety kit."
+    },
+    {
+     "q": "Can I change my batch date?",
+     "a": "Add your date-change rules here. Ask us as early as possible so we can check space in other batches."
+    },
+    {
+     "q": "What is the cancellation policy?",
+     "a": "Add your cancellation and refund terms here."
+    }
+   ]
+  },
+  {
+   "name": "Family Treks",
+   "icon": "users",
+   "items": [
+    {
+     "q": "Can I trek with kids?",
+     "a": "Yes, on easy routes such as Dayara Bugyal. Check the minimum age for each trek with our team before booking."
+    },
+    {
+     "q": "Can we book a private family batch?",
+     "a": "Add your private or customised trek details here, including group size and pricing."
+    },
+    {
+     "q": "What should kids carry?",
+     "a": "A small day pack with water, a snack and a rain layer. Adults or porters carry the main load."
+    }
+   ]
+  },
+  {
+   "name": "Rent",
+   "icon": "tag",
+   "items": [
+    {
+     "q": "What gear can I rent?",
+     "a": "Jackets, trekking poles, sleeping bags and shoes. Add your full list here."
+    },
+    {
+     "q": "How does renting work?",
+     "a": "Tell us the gear and dates in your enquiry. You collect and return it at the base point. Add your own steps here."
+    },
+    {
+     "q": "Is there a deposit?",
+     "a": "Add your deposit and damage policy here."
+    }
+   ]
+  },
+  {
+   "name": "Repeat Your Trek Policy",
+   "icon": "repeat",
+   "items": [
+    {
+     "q": "What is the repeat trek policy?",
+     "a": "Describe what you offer to returning trekkers here, for example a discount on the next booking."
+    },
+    {
+     "q": "How do I claim it?",
+     "a": "Add the steps here, such as quoting your earlier booking ID."
+    }
+   ]
+  },
+  {
+   "name": "Trek Ambassador",
+   "icon": "badge",
+   "items": [
+    {
+     "q": "What is a Trek Ambassador?",
+     "a": "A past trekker who shares their experience and helps new trekkers choose and prepare. Describe your own programme here."
+    },
+    {
+     "q": "How can I become one?",
+     "a": "Add the requirements and the sign-up steps here."
+    }
+   ]
+  },
+  {
+   "name": "Women Trekker",
+   "icon": "person",
+   "items": [
+    {
+     "q": "Is it safe for women trekkers?",
+     "a": "Add your safety details here. Common points are trained leaders, daily check-ins, clear camp rules and the option of women-only batches."
+    },
+    {
+     "q": "Can I join a women-only batch?",
+     "a": "Add your women-only batch dates and details here."
+    }
+   ]
+  }
+ ],
+ "stats": [
+  {
+   "icon": "users",
+   "number": 50000,
+   "suffix": "+",
+   "title": "Happy Trekkers",
+   "caption": "Across 20+ destinations"
+  },
+  {
+   "icon": "mtn",
+   "number": 40,
+   "suffix": "+",
+   "title": "Treks",
+   "caption": "Multiple regions"
+  },
+  {
+   "icon": "trophy",
+   "number": 10,
+   "suffix": "+",
+   "title": "Awards",
+   "caption": "Industry recognition"
+  },
+  {
+   "icon": "clock",
+   "number": 12,
+   "suffix": "+",
+   "title": "Years",
+   "caption": "Of safe adventures"
+  },
+  {
+   "icon": "sprout",
+   "number": 100,
+   "suffix": "+",
+   "title": "Clean-up drives",
+   "caption": "Conducted on popular trails"
+  }
+ ],
+ "features": [
+  {
+   "icon": "shield",
+   "title": "Certified leaders",
+   "text": "Trained leaders and local guides check health and pace daily."
+  },
+  {
+   "icon": "cross",
+   "title": "Safety first",
+   "text": "First-aid, oxygen and clear weather and altitude plans."
+  },
+  {
+   "icon": "food",
+   "title": "Good food",
+   "text": "Hot vegetarian meals. Diets and allergies handled in advance."
+  },
+  {
+   "icon": "leaf",
+   "title": "Leave no trace",
+   "text": "We carry waste out and run clean-up drives."
+  }
+ ],
+ "settings": {
+  "site_name": "Himalaya Trails",
+  "phone": "+91 00000 00000",
+  "email": "info@example.com",
+  "address": "Dehradun, Uttarakhand, India",
+  "hours": "Mon to Sat, 10 AM to 8 PM",
+  "whatsapp": "910000000000",
+  "footer_note": "Demo details. Replace them in the admin panel."
+ }
+}

@@ -1,0 +1,60 @@
+/* Custom styles. Tailwind classes come from the Tailwind CDN script. */
+.noscroll{
+  scrollbar-width:none;-ms-overflow-style:none}
+.noscroll::-webkit-scrollbar{
+  display:none}
+:root{
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html{
+  scroll-behavior:smooth;scroll-padding-top:72px}
+:focus-visible{
+  outline:3px solid #f23640;outline-offset:2px}
+.slide{
+  transition:opacity .8s}
+@media(prefers-reduced-motion:reduce){
+  .slide{
+  transition:none}
+html{
+  scroll-behavior:auto}
+}
+
+.gslide{transition:opacity .6s}
+@media(prefers-reduced-motion:reduce){.gslide{transition:none}}
+html,body{max-width:100%;overflow-x:clip}
+img{max-width:100%}
+
+/* Text pop-up on the "Stay informed" cards */
+.popup-text{max-height:0;opacity:0;transform:translateY(1rem);overflow:hidden;transition:all .3s ease-out}
+.group:hover .popup-text,.group:focus-visible .popup-text{max-height:6rem;opacity:1;transform:none}
+@media (hover:none){.popup-text{max-height:6rem;opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.popup-text{transition:none}}
+
+/* ===== Moving text strip at the top (season texts) ===== */
+.marquee{overflow:hidden;white-space:nowrap}
+.marquee-track{display:inline-flex;animation:marquee 45s linear infinite}
+.marquee-track:hover{animation-play-state:paused}
+.marquee-group{display:inline-flex;align-items:center;gap:2.5rem;padding:.5rem 2.5rem .5rem 1.25rem}
+@keyframes marquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.marquee{overflow-x:auto}.marquee-track{animation:none}}
+
+/* ===== Scroll reveal ===== */
+.reveal-ready [data-reveal]{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
+.reveal-ready [data-reveal].is-visible{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.reveal-ready [data-reveal]{opacity:1;transform:none;transition:none}}
+
+/* ===== Menu hover effect: red lines slide in, then the link fills with red ===== */
+.nav-fx{position:relative;display:block;text-transform:uppercase;padding:.55rem 1rem;text-decoration:none;font-size:.9rem;font-weight:600;letter-spacing:.02em;color:inherit;transition:.5s;z-index:1;background:none;border:0;cursor:pointer;font-family:inherit}
+.nav-fx::before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;border-top:2px solid #f23640;border-bottom:2px solid #f23640;transform:scaleY(2);opacity:0;transition:.3s}
+.nav-fx::after{content:'';position:absolute;top:2px;left:0;width:100%;height:100%;background-color:#f23640;transform:scale(0);opacity:0;transition:.3s;z-index:-1}
+.nav-fx:hover,.nav-fx:focus-visible{color:#fff}
+.nav-fx:hover::before,.nav-fx:focus-visible::before{transform:scaleY(1);opacity:1}
+.nav-fx:hover::after,.nav-fx:focus-visible::after{transform:scaleY(1);opacity:1}
+@media (prefers-reduced-motion:reduce){.nav-fx,.nav-fx::before,.nav-fx::after{transition:none}}
+
+/* ===== Sale banner text (written on top of the banner photo) ===== */
+.promo{display:flex;flex-direction:column;align-items:center;line-height:.92;font-family:'Bricolage Grotesque',system-ui,sans-serif;font-weight:800;text-transform:uppercase}
+.promo-top,.promo-main,.promo-year{text-shadow:-3px -3px 0 #9d1010,3px -3px 0 #9d1010,-3px 3px 0 #9d1010,3px 3px 0 #9d1010,0 6px 0 #6b0707,0 12px 18px rgba(0,0,0,.5)}
+.promo-top{font-size:clamp(2rem,6.5vw,4.6rem);color:#ffc400}
+.promo-main{font-size:clamp(3.2rem,11vw,8.2rem);color:#fff;margin-top:-.04em}
+.promo-year{font-size:clamp(1.4rem,4vw,2.6rem);color:#ffc400;margin-top:-.08em}
+.slide-title{font-family:'Bricolage Grotesque',system-ui,sans-serif;font-style:italic;font-weight:800;text-transform:uppercase;font-size:clamp(1.9rem,6vw,4rem);line-height:1.05;text-shadow:0 3px 14px rgba(0,0,0,.55)}
